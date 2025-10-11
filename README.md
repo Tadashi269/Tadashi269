@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Singh</h1>
-<h3 align="center">Hello! I'm **Bhaskar Singh**, a passionate software developer with a keen interest in building innovative solutions. With a strong background in [Your Specialization], I enjoy working on projects that challenge my skills and expand my knowledge.</h3>
+<h3 align="center">Hello! I'm **Bhaskar Singh**, a passionate software developer with a keen interest in building innovative solutions. I enjoy working on projects that challenge my skills and expand my knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tadashi269&label=Profile%20views&color=0e75b6&style=flat" alt="tadashi269" /> </p>
 
